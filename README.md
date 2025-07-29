@@ -15,30 +15,60 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Chirag+Agarwal;A+Passionate+Full-Stack+Web+Developer;MERN+Stack+Specialist+%F0%9F%92%BB;Clean+Code+Enthusiast+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A+Creating+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Chirag+Agarwal;A+Passionate+Full-Stack+Web+Developer;MERN+Stack+Specialist+%F0%9F%92%BB;Clean+Code+Enthusiast+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A+Creating+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center" style="text-align: justify">
-  👋 Hello! I'm <b>Chirag Agarwal</b>, a passionate <b>MERN Stack Developer</b> based in India. I specialize in building full-stack web applications with secure, scalable, and real-time capabilities.
-  <br /><br />
-  🔐 My focus is on building clean & secure systems using <code>React.js</code>, <code>Node.js</code>, <code>Express.js</code>, and <code>MongoDB</code>. I also implement robust authentication flows using <b>JWT</b> and <b>Google OAuth</b>.
-  <br /><br />
-  💡 I love turning ideas into code and bringing them to life with smooth UI/UX. From REST APIs to socket-based chats, I enjoy solving problems and delivering value through tech.
-  <br /><br />
-  🚀 Always eager to explore new technologies, currently diving deeper into <b>Next.js</b>, <b>Socket.IO</b>, and advanced <b>MongoDB</b> optimization.
+<p align="center">
+  <img src="https://i.imgur.com/qj4aUVu.gif" width="270px" />
+</p>
+
+<p align="center">
+  <b>MERN Stack Developer | React.js • Node.js • MongoDB | JWT & Google OAuth Expert</b>
 </p>
 
 ---
 
-### 🧠 Quick Facts
+### ✨ About Me
 
-- 🎓 Self-taught full-stack developer with internship project experience  
-- 🌱 Learning daily through hands-on building & open-source  
-- 🔧 Tools of choice: VS Code, GitHub, Postman, MongoDB Compass  
-- 📬 Email me at: <b>chiragagarwal1947@gmail.com</b>  
-- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/chirag13a/" target="_blank">chirag13a</a>  
+- 💻 I’m **Chirag Agarwal**, a full-stack web developer based in India.
+- 🚀 I love building interactive, responsive websites and real-time web apps.
+- 🔐 Focused on secure, scalable backend systems with **JWT Auth**, **OAuth**, and **MongoDB**.
+- 🎯 I enjoy learning, problem-solving, and contributing to projects that matter.
+- 📬 Email: **chiragagarwal1947@gmail.com**
+- 🔗 LinkedIn: [chirag13a](https://www.linkedin.com/in/chirag13a/)
 
 ---
+
+### 🔥 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chirag-13a&show_icons=true&theme=radical" alt="Chirag's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=chirag-13a&theme=radical" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-13a&theme=react-dark&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-13a&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 💡 Fun Extras
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chirag-13a&label=Profile+Views&color=brightgreen" alt="Profile Views" />
+</p>
+
+---
+
+
 
 
 
