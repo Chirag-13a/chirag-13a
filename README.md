@@ -1,86 +1,92 @@
-<!-- Profile Header with Typing Animation -->
+<!-- Typing Header Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Chirag+👨‍💻;A+Full-Stack+Developer;React+|+Node.js+|+MongoDB+|+MySQL;Welcome+to+my+GitHub+profile!&center=true&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00BFFF&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Agarwal;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+MySQL;Secure+Auth+with+JWT+%26+Google+OAuth;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
-<!-- GitHub Banner -->
+<!-- Banner (Optional: Replace or add your own) -->
 <p align="center">
-  <img src="https://github.com/ChiragAgarwal21/ChiragAgarwal21/blob/main/assets/banner.gif" alt="Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner Gif" width="100%" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🚀 About Me
 
-- 🌱 Currently learning: MERN Stack, Socket.IO, and Real-time Applications  
-- 💻 Building: TypoMeter, Money Splitter, E-commerce Website  
-- 🧠 Passionate about creating unique UI experiences and powerful backend systems  
-- 📫 Reach me at: [chirag@example.com](mailto:chirag@example.com)
+I'm **Chirag Agarwal**, a passionate **MERN Stack Developer** who builds full-stack web apps with secure authentication and real-time capabilities. I love writing clean, maintainable code and building useful tools from scratch.
 
----
-
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+- 🌱 Learning Next.js & WebSockets  
+- 🔐 Skilled in **JWT, Google OAuth, Socket.IO**  
+- 🧠 Focused on scalable architecture & modern UI  
+- 📫 Reach me at: **chiragagarwal1947@gmail.com**
 
 ---
 
-### 📈 GitHub Stats & Trophies
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiragAgarwal21&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragAgarwal21&layout=compact&theme=tokyonight" height="170" />
-</p>
+#### 🧾 Languages & Markup
+`HTML` • `CSS` • `JavaScript` • `Bootstrap` • `Python`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChiragAgarwal21&theme=radical&no-frame=true&margin-w=10" />
-</p>
+#### 🧩 Frameworks & Tools
+`React.js` • `Node.js` • `Express.js` • `REST APIs` • `Socket.io`
+
+#### 🗃️ Databases
+`MongoDB` • `MySQL` • `SQL`
+
+#### 💻 Tools & Platforms
+`VS Code` • `MongoDB Compass` • `SQL Server` • `DBeaver`
+
+#### 🔃 Version Control
+`Git` • `GitHub`
+
+#### 🔑 Concepts
+`OOP (Object Oriented Programming)` • `Secure Auth (JWT, OAuth2)`
 
 ---
 
-### 🔥 Streak Stats
+### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragAgarwal21&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-13a&bg_color=0d1117&color=00bfff&line=00e7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-### 🌍 Visitors
+### 🏆 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChiragAgarwal21&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chirag-13a&theme=onestar&margin-w=10&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chirag-13a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-13a&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://linkedin.com/in/chiragagarwal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chirag@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-13a&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
 
-<!--
-**Chirag-13a/chirag-13a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗 Let's Connect!
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/chirag13a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chiragagarwal1947@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👀 Visitors Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chirag-13a&label=Profile+Views&color=blue&style=flat" />
+</p>
