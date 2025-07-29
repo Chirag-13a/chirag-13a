@@ -84,19 +84,25 @@ I'm **Chirag Agarwal**, a passionate **MERN Stack Developer** who builds full-st
 
 ---
 
-### 📊 GitHub Activity Graph
+---
+
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-13a&bg_color=0d1117&color=00bfff&line=00e7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-13a&theme=tokyo-night&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 </p>
 
 ---
 
-### 🏆 GitHub Stats & Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chirag-13a&theme=onestar&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chirag-13a&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chirag-13a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
@@ -105,29 +111,29 @@ I'm **Chirag Agarwal**, a passionate **MERN Stack Developer** who builds full-st
 
 ---
 
-### 🔥 GitHub Streak
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-13a&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-13a&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-### 🔗 Let's Connect!
+<h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chirag13a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:chiragagarwal1947@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-### 👀 Visitors Count
+<h2 align="center">👀 Visitor Count</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chirag-13a&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=chirag-13a&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </p>
