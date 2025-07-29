@@ -10,16 +10,37 @@
 
 ---
 
-### 🚀 About Me
+---
 
-I'm **Chirag Agarwal**, a passionate **MERN Stack Developer** who builds full-stack web apps with secure authentication and real-time capabilities. I love writing clean, maintainable code and building useful tools from scratch.
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🌱 Learning Next.js & WebSockets  
-- 🔐 Skilled in **JWT, Google OAuth, Socket.IO**  
-- 🧠 Focused on scalable architecture & modern UI  
-- 📫 Reach me at: **chiragagarwal1947@gmail.com**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Chirag+Agarwal;A+Passionate+Full-Stack+Web+Developer;MERN+Stack+Specialist+%F0%9F%92%BB;Clean+Code+Enthusiast+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A+Creating+%F0%9F%9A%80" />
+</p>
+
+<p align="center" style="text-align: justify">
+  👋 Hello! I'm <b>Chirag Agarwal</b>, a passionate <b>MERN Stack Developer</b> based in India. I specialize in building full-stack web applications with secure, scalable, and real-time capabilities.
+  <br /><br />
+  🔐 My focus is on building clean & secure systems using <code>React.js</code>, <code>Node.js</code>, <code>Express.js</code>, and <code>MongoDB</code>. I also implement robust authentication flows using <b>JWT</b> and <b>Google OAuth</b>.
+  <br /><br />
+  💡 I love turning ideas into code and bringing them to life with smooth UI/UX. From REST APIs to socket-based chats, I enjoy solving problems and delivering value through tech.
+  <br /><br />
+  🚀 Always eager to explore new technologies, currently diving deeper into <b>Next.js</b>, <b>Socket.IO</b>, and advanced <b>MongoDB</b> optimization.
+</p>
 
 ---
+
+### 🧠 Quick Facts
+
+- 🎓 Self-taught full-stack developer with internship project experience  
+- 🌱 Learning daily through hands-on building & open-source  
+- 🔧 Tools of choice: VS Code, GitHub, Postman, MongoDB Compass  
+- 📬 Email me at: <b>chiragagarwal1947@gmail.com</b>  
+- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/chirag13a/" target="_blank">chirag13a</a>  
+
+---
+
+
 
 <!-- 🛠️ Tech Stack -->
 <h2 align="center">🛠️ My Tech Stack</h2>
