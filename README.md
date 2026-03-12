@@ -156,11 +156,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chirag-13a&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </p>
-
----
-
-<h2 align="center">👀 Visitor Count</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chirag-13a&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-</p>
