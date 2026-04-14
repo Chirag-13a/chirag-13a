@@ -1,151 +1,175 @@
-<!-- Typing Header Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00BFFF&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Agarwal;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+MySQL;Secure+Auth+with+JWT+%26+Google+OAuth;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<!-- Banner (Optional: Replace or add your own) -->
+<!-- Animated Glitch Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003366,100:00bfff&height=200&section=header&text=Chirag%20Agarwal&fontSize=60&fontColor=00BFFF&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=18&descColor=ffffff&animation=twinkling" width="100%" />
+
+</div>
+
+<!-- Animated Typing Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%94%90+JWT+%7C+OAuth2+%7C+Secure+by+Design;%E2%9A%A1+Real-Time+Apps+with+Socket.IO;%F0%9F%8C%90+MERN+Stack+%7C+REST+APIs+%7C+Clean+Code;%F0%9F%92%BB+Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- Animated Neon Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+---
+
+## 🧬 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
+
+```typescript
+const chirag = {
+  name:       "Chirag Agarwal",
+  role:       "MERN Stack Developer",
+  location:   "India 🇮🇳",
+  stack:      ["React", "Node.js", "Express", "MongoDB"],
+  auth:       ["JWT", "Google OAuth2", "Passport.js"],
+  realtime:   ["Socket.IO", "WebSockets"],
+  passion:    "Clean UI + Scalable Backend",
+  email:      "chiragagarwal1947@gmail.com",
+  motto:      "Turning ideas into real-time web magic ✨",
+  currentlyLearning: ["TypeScript", "Docker", "Redis"],
+  openToWork: true,
+};
+```
+
+<br clear="right"/>
+
+---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+---
+
+## 🛠️ Tech Arsenal
+
+<!-- Languages Row -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FFAA&center=true&width=300&lines=%F0%9F%8C%90+Languages" />
+</h3>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner Gif" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap&theme=dark&perline=5" />
+</p>
+
+<!-- Frameworks Row -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FFAA&center=true&width=400&lines=%E2%9A%99%EF%B8%8F+Frameworks+%26+Libraries" />
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<!-- Databases Row -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FFAA&center=true&width=300&lines=%F0%9F%97%84%EF%B8%8F+Databases" />
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=5" />
+</p>
+
+<!-- DevTools Row -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FFAA&center=true&width=300&lines=%F0%9F%92%BB+Dev+Tools" />
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=dark&perline=5" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00C6FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Agarwal!;MERN+Stack+Developer+%F0%9F%92%BB;React.js+%7C+Node.js+%7C+MongoDB;JWT+%26+OAuth2+Authentication+Expert" alt="Typing SVG" />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=chirag-13a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00bfff&icon_color=00ffaa&text_color=ffffff&border_radius=12" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-13a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff&border_radius=12" height="185" />
+</div>
+
+<br/>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-13a&theme=tokyonight&hide_border=true&background=0d1117&ring=00bfff&fire=ff6b35&currStreakLabel=00ffaa&sideLabels=ffffff&dates=aaaaaa&border_radius=12" alt="GitHub Streak" width="65%" />
 </div>
 
 ---
 
-🎓 I'm a passionate full-stack developer with a deep love for clean UI, efficient code, and building meaningful web experiences.  
-💻 I specialize in **MERN Stack** and have hands-on experience in **authentication systems**, **Socket.IO**, and RESTful APIs.  
-🚀 Always exploring new tech, solving problems, and crafting scalable web apps.  
-📫 Reach me at: **chiragagarwal1947@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/chirag13a/) | [GitHub](https://github.com/chirag-13a)
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-13a&bg_color=0d1117&color=00ffaa&line=00bfff&point=ffffff&area=true&area_color=003366&hide_border=true&radius=8" width="100%" />
+</div>
 
 ---
 
-🌟 *"Turning ideas into real-time web magic!"*
+## 🏆 GitHub Trophies
 
-
-
-
-<!-- 🛠️ Tech Stack -->
-<h2 align="center">🛠️ My Tech Stack</h2>
-<p align="center">Technologies I’ve been working with recently</p>
-
-<!-- Languages -->
-<h3 align="center">🌐 Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-<!-- Frameworks -->
-<h3 align="center">⚙️ Frameworks & Libraries</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
-</p>
-
-<!-- Databases -->
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-<!-- Dev Tools -->
-<h3 align="center">💻 Development Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white" alt="DBeaver" />
-  <img src="https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass" />
-</p>
-
-<!-- Version Control -->
-<h3 align="center">🔧 Version Control & Hosting</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-<!-- Concepts -->
-<h3 align="center">🔐 Concepts & Auth</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/OOP-004482?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/OAuth2-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="OAuth2" />
-</p>
-
-<!-- Little Animation Flair -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=I+code+what+I+dream.;I+build+what+I+believe.;I+love+clean+code+and+UI!">
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chirag-13a&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7" width="100%" />
+</div>
 
 ---
 
----
-
-<h2 align="center">📈 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirag-13a&theme=tokyo-night&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chirag-13a&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag13a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragagarwal1947@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirag-13a)
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirag-13a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-13a&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">🔥 GitHub Streak</h2>
+## 👁️ Profile Visitors
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-13a&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
-<h2 align="center">📬 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chirag13a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:chiragagarwal1947@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chirag-13a&label=Profile+Views&color=00bfff&style=for-the-badge" />
+</div>
 
 ---
 
-<h2 align="center">👀 Visitor Count</h2>
+<!-- Snake Animation -->
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chirag-13a&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:003366,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00BFFF&center=true&width=500&lines=%E2%9C%A8+Thanks+for+visiting+my+profile!;%F0%9F%9A%80+Let%27s+build+something+amazing+together!;%F0%9F%92%99+Star+my+repos+if+you+find+them+useful!" />
+</div>
